@@ -1,0 +1,3 @@
+# guessing-game
+
+My first steps in Rust. Wait to see the magic...
